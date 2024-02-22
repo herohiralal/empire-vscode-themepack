@@ -7,7 +7,7 @@
 	"repository": "https://github.com/herohiralal/empire-vscode-themepack",
 	"scripts": {
 		"build": "node --experimental-modules src/index.mjs",
-		"release": "npm run build && git add dist && git commit -m build-theme && npm version patch & vsce publish && git push"
+		"release": "npm version minor && npx vsce publish minor && git add . && git commit -m \"feat: Version update and build.\" && git push"
 	},
 	"engines": {
 		"vscode": "^1.26.0"

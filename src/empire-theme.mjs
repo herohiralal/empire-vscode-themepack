@@ -223,7 +223,7 @@ export default ({ name, colors, type }) => ({
     'extensionButton.prominentHoverBackground': colors.dim1,
     'pickerGroup.border': colors.background3,
     'pickerGroup.foreground': colors.dim1,
-    'terminal.background': colors.background4,
+    'terminal.background': colors.background1,
     'terminal.foreground': colors.pure2,
     'terminal.ansiBlack': colors.background4,
     'terminal.ansiBlue': colors.accent2,

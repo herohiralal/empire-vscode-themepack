@@ -219,7 +219,7 @@
         "extensionButton.prominentHoverBackground": "#9e9e9e",
         "pickerGroup.border": "#cdcdcd",
         "pickerGroup.foreground": "#9e9e9e",
-        "terminal.background": "#bdbdbd",
+        "terminal.background": "#dedede",
         "terminal.foreground": "#000000",
         "terminal.ansiBlack": "#bdbdbd",
         "terminal.ansiBlue": "#984c00",

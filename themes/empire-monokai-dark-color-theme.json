@@ -166,6 +166,7 @@
                 "string.comment"
             ],
             "settings": {
+                "fontStyle": "italic",
                 "foreground": "#e5c07b"
             }
         },

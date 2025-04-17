@@ -255,6 +255,7 @@
                 "string.comment"
             ],
             "settings": {
+                "fontStyle": "italic",
                 "foreground": "#b07200"
             }
         },

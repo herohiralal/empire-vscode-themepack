@@ -40,7 +40,7 @@
 	],
 	"dependencies": {
 		"@vscode/vsce": "^2.23.0",
-		"chroma-js": "^2.1.0"
+		"chroma-js": "^2.6.0"
 	},
 	"devDependencies": {
 		"ovsx": "^0.8.1"

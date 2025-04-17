@@ -181,8 +181,12 @@
             }
         },
         {
-            "name": "Number",
-            "scope": "constant.numeric",
+            "name": "Constant",
+            "scope": [
+                "constant.numeric",
+                "variable.other.constant",
+                "variable.other.enummember"
+            ],
             "settings": {
                 "foreground": "#c678dd"
             }
@@ -287,8 +291,8 @@
         {
             "name": "Variable Object",
             "scope": [
+                "entity.name.namespace",
                 "variable.other.object",
-                "variable.other.constant",
                 "variable.other.global",
                 "variable.other.readwrite.class",
                 "variable.other.readwrite.instance",

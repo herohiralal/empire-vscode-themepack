@@ -6,8 +6,8 @@
 	"publisher": "HeroHiralal",
 	"repository": "https://github.com/herohiralal/empire-vscode-themepack",
 	"scripts": {
-		"build": "node --experimental-modules src/index.mjs",
-		"release": "npm version minor && npx vsce publish minor && git add . && git commit -m \"feat: Version update and build.\" && git push"
+		"build": "",
+		"release": "npm version patch"
 	},
 	"engines": {
 		"vscode": "^1.26.0"
@@ -38,13 +38,7 @@
 		"color-theme",
 		"monokai"
 	],
-	"dependencies": {
-		"@vscode/vsce": "^2.23.0",
-		"chroma-js": "^2.6.0"
-	},
-	"devDependencies": {
-		"ovsx": "^0.8.1"
-	},
+	"dependencies": {},
 	"__metadata": {
 		"id": "a97a83b4-05ec-49fe-9265-073a91bb4c49",
 		"publisherDisplayName": "HeroHiralal",

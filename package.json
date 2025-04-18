@@ -2,7 +2,7 @@
 	"name": "empire-vscode-themepack",
 	"displayName": "Empire VSCode ThemePack",
 	"description": "Inspired by One Monokai and Oh Lucy.",
-	"version": "0.8.1",
+	"version": "0.8.2",
 	"publisher": "HeroHiralal",
 	"repository": "https://github.com/herohiralal/empire-vscode-themepack",
 	"scripts": {

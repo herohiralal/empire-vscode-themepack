@@ -14,22 +14,4 @@ Inspired by editor look of [oh-lucy](https://github.com/hermitter/oh-lucy-vscode
 
 ## How to Edit
 
-Customizable. Change the colors in `empire-color.mjs` & run `npm run build` to build
-the theme.
-
-Themes will be built in `temp/`. Pick up the `colors` section from it and paste in empire-monokai themes.
-
-More to come soon.
-
-To apply your customized theme copy `themes/` folder to
-`~/.vscode/extensions`.
-
-<!-- # Publish Commands
-# VSC: https://hashnode.com/post/create-and-publish-a-vs-code-theme-ckz2r72o00n44mjs1d4bkc0fb
-npx vsce login herohiralal
-npx vsce package
-npx vsce publish
-
-# Open VSX
-npx ovsx publish -p <token>
--->
+Just edit the *.json files.

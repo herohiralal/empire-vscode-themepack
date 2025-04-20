@@ -186,7 +186,8 @@
             "scope": [
                 "constant.numeric",
                 "variable.other.constant",
-                "variable.other.enummember"
+                "variable.other.enummember",
+                "entity.name.function.preprocessor"
             ],
             "settings": {
                 "foreground": "#af98e6"
